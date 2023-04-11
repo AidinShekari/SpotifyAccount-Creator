@@ -27,3 +27,5 @@ This Telegram bot provides a simple and convenient way for users to create a Spo
 🤖 **Example Bot**
 
 https://t.me/SpotifyCreateBot
+
+![image](https://user-images.githubusercontent.com/59771519/231192884-8b93bf9a-53c9-411e-85e9-e26861dd2b6b.png)
