@@ -18,7 +18,7 @@ Run the bot by running node index.js.
 
 Once the bot is running, users can start the account creation process by sending a message to the bot with the text /register. The bot will then ask the user for their email address and password, and will use this information to create a new Spotify account for the user.
 
-Note that the bot currently only supports creating free Spotify accounts. To create a premium account, additional steps would be required, such as collecting payment information and subscribing to a premium plan.
+Note that the bot currently only supports creating free Spotify accounts.
 
 💡 **Conclusion**
 
