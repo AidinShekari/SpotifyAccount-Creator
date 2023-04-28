@@ -24,8 +24,3 @@ Note that the bot currently only supports creating free Spotify accounts.
 
 This Telegram bot provides a simple and convenient way for users to create a Spotify account using their Telegram app. With some additional development, it could potentially become a powerful tool for managing and customizing music streaming accounts.
 
-🤖 **Example Bot**
-
-https://t.me/SpotifyCreateBot
-
-![image](https://user-images.githubusercontent.com/59771519/231192884-8b93bf9a-53c9-411e-85e9-e26861dd2b6b.png)
